@@ -1,0 +1,81 @@
+Mian Zaid
+Jan 15,2023 13:27
+Normal Car
+Hasan Salah
+OP929
+10
+294
+E-11
+Saddar
+Mian Zaid
+Jan 15,2023 14:15
+Normal Car
+Kashif Mark
+QL576
+10
+327
+E-11
+Saddar
+Mian Zaid
+Jan 15,2023 16:55
+Normal Car
+Ahmed Mark
+FB364
+10
+627
+E-11
+Saddar
+Mian Zaid
+Jan 15,2023 17:08
+Normal Car
+Ahmed Jhon
+KD808
+10
+435
+E-11
+Saddar
+Mian Zaid
+Jan 15,2023 17:15
+Ac car
+Mark Jhon
+FE341
+10
+1119
+E-11
+Saddar
+Mian Zaid
+Jan 15,2023 17:20
+Normal Car
+Alison Samer
+TG374
+10
+560
+E-11
+Saddar
+Mian Zaid
+Jan 15,2023 17:22
+Ac car
+Alison Hael
+AQ649
+8
+1065
+G-11
+Saddar
+Mian Zaid
+Jan 15,2023 22:40
+Ac car
+Omar Omar
+DB418
+10
+603
+E-11
+Saddar
+Mian Zaid
+Jan 16,2023 10:34
+Ac car
+Khaled Ahmed
+AT295
+10
+914
+E-11
+Saddar
